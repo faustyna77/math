@@ -1,2 +1,2 @@
-# math
-aplikacja pozwalająca wyznaczać operacje modulo na liczbach oraz wyznaczająca NWD algorytmem Euklidesa
+# faustyna77.math_discret
+aplikacja obliczająca modulo n z danych liczb -pomoc w nauce arytmetyki modularnej 
